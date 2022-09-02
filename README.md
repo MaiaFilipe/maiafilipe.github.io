@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-br">
   <head>
     <title>Github Pages</title>
